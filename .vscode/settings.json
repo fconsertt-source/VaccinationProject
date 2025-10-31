@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+  "terminal.integrated.profiles.windows": {
+    "Windows PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    }
+  }
+}
